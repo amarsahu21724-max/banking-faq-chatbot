@@ -8,6 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 nltk.download("punkt", quiet=True)
+nltk.download("punkt_tab", quiet=True)
 nltk.download("stopwords", quiet=True)
 
 faq_data = pd.read_csv("faq_data.csv")
