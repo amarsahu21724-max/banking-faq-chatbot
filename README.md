@@ -12,6 +12,9 @@ A simple FAQ Chatbot built with Streamlit, NLTK, and Scikit-learn that helps use
 * Banking FAQ dataset support
 * User-friendly interface
 
+# Live Demo
+Try the App: https://banking-faq-chatbot-vtsvhzkhwz2lyxw33gbcxb.streamlit.app/
+
 ## Technologies Used
 
 * Python
