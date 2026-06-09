@@ -54,7 +54,7 @@ if event.selection.rows:
     st.session_state.question = faq_data.iloc[selected_row]["Question"]
 
 user_input = st.text_input(
-    "❓ Ask a question",
+    "Ask a question ❓",
     key="question"
 )
 
